@@ -1,0 +1,8 @@
+body > article, header{
+    text-align: center;
+    font-size: 25px;
+}
+
+section {
+    text-align: justify;
+}
